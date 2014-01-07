@@ -1,2 +1,0 @@
-SemanticBuildingModeler_Documentation
-=====================================
